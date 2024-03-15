@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomImage</string>
+    <string name="hint">Type here</string>
+    <string name="buttonText">Change Image</string>
 </resources>
